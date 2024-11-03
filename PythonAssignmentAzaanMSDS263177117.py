@@ -1,5 +1,5 @@
 
-# All three modules used in this assignment are built in python.
+# The two modules used in this assignment are built in python.
 import os  # This module basically is used here to check, create and read files on the operating system in the specific path.
 import re  # This  module is used to check the type of data and format of the data in python( strings,char,numbers,floats,etc.)
 
